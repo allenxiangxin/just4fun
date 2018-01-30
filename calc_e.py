@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[10]:
-
-
 #How to calculate e using Monte Carlo
 import random
 random.uniform(0, 1)
